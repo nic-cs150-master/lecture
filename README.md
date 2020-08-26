@@ -1,1 +1,1 @@
-# lecture
+# CS150 Lecture Codes
