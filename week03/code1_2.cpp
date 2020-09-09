@@ -14,9 +14,6 @@ int main()
 
     cout << "Result = " << amount << '\n';
 
-
-    
-
     // int books;
     // int months;
     // double booksPerMonth;
